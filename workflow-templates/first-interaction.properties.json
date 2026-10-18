@@ -1,0 +1,6 @@
+{
+    "name": "First interaction greeter",
+    "description": "Point first-time outside contributors to the TransitMatters volunteer form",
+    "iconName": "octicon person-add",
+    "categories": ["Automation"]
+}
